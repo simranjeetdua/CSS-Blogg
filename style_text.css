@@ -1,0 +1,31 @@
+body{
+	border:solid grey 7px;
+	margin:0 10% 0 10%;
+}
+.date{
+	font-family:Open Sans Condensed,Sans-Serif;
+	color:#416AA1;
+	font-size: 1.5em;
+	margin-left:1%;
+}
+
+.heading1{
+	font-family:Titillium Web,Sans-Serif ;
+	margin-left:0.5%;
+}
+
+
+
+.text{
+	font-family:Titillium Web,Sans-Serif ;
+	margin:0.5%;
+}
+
+.highlight{
+	border-left: solid grey 1px;
+	margin-left: 2%
+	padding-left:10px;
+
+}
+
+
